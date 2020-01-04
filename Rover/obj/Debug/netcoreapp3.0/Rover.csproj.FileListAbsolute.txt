@@ -1,0 +1,11 @@
+/Users/mustafagordesli/Projects/Rover/Rover/bin/Debug/netcoreapp3.0/Rover
+/Users/mustafagordesli/Projects/Rover/Rover/bin/Debug/netcoreapp3.0/Rover.deps.json
+/Users/mustafagordesli/Projects/Rover/Rover/bin/Debug/netcoreapp3.0/Rover.runtimeconfig.json
+/Users/mustafagordesli/Projects/Rover/Rover/bin/Debug/netcoreapp3.0/Rover.runtimeconfig.dev.json
+/Users/mustafagordesli/Projects/Rover/Rover/bin/Debug/netcoreapp3.0/Rover.dll
+/Users/mustafagordesli/Projects/Rover/Rover/bin/Debug/netcoreapp3.0/Rover.pdb
+/Users/mustafagordesli/Projects/Rover/Rover/obj/Debug/netcoreapp3.0/Rover.csprojAssemblyReference.cache
+/Users/mustafagordesli/Projects/Rover/Rover/obj/Debug/netcoreapp3.0/Rover.AssemblyInfoInputs.cache
+/Users/mustafagordesli/Projects/Rover/Rover/obj/Debug/netcoreapp3.0/Rover.AssemblyInfo.cs
+/Users/mustafagordesli/Projects/Rover/Rover/obj/Debug/netcoreapp3.0/Rover.dll
+/Users/mustafagordesli/Projects/Rover/Rover/obj/Debug/netcoreapp3.0/Rover.pdb
